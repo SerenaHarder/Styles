@@ -2,7 +2,7 @@
 
 body {
     background: rgb(251, 192, 206);
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     line-height: 1.3;
     font-size: 16px;
@@ -10,18 +10,21 @@ body {
 
 h1 {
    font-size: 72px;
-    color: dimgrey;
+    color: white;
+    border-style: solid;
+    text-align: center;
+    border-width: 10px;
 }
 
 h2 {
-    color: dimgrey;
+    color: white;
 }
 
 h3 {
-    color: dimgrey;
+    color: white;
 }
 
 h4 {
-    color: dimgrey;
+    color: white;
 
 }
